@@ -64,13 +64,11 @@ Use as etiquetas para classificar ou sinalizar urgência sem poluir o título.
 
 ---
 
-## ✅ Observações
+## 💔 Sentimento pessoal sobre o processo hoje e devaneios da madrugada, desbafos.
+
 * Gostei muito do canal de notificações no Slack, mais util que a notificações do proprio trello.
 * O sistema de notificação do Trello não é bom! por isso ao citar um membro é recomendado que o adicione como membro do card para que ele tenha visualzição do mesmo se ele filtrar as suas tarefas. Depois se ele quiser ele mesmo pode se remover do card que não quiser seguir acompanhando ele.
-* Evitar texto em Capslock causa ansiedade pois parece que vc fez algo errado e esta tomando um "esporro".
-
-## 💔 Sentimento pessoal sobre o processo hoje e devaneios da madrugada.
-
+* Evitar texto em Capslock causa ansiedade pois parece que vc fez algo errado e esta tomando um "esporro". Sim sou "sensivel" a este ponto...
 * Sem desmerecer nenhuma coluna, a quantidade atual faz o board deixar de caber na tela — num mural físico ele seria perfeito, no monitor perco a visão de conjunto
 * Para uma equipe pequena, cada coluna extra vira um obstáculo; só de pensar em qual usar já perco ritmo, e isso faz com que várias nunca sejam sequer usadas
 * Para um time enxuto, certas colunas não se justificam; elas introduzem complexidade sem retorno concreto. As vezes perco mais tempo pensando em que coluna colocar o card do que estar fazendo algo efetivamente com ele
